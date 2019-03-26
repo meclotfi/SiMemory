@@ -8,6 +8,7 @@ using System.Timers;
 namespace ConsoleApp
 {
 
+//hello
 	public class processus: IEquatable<processus>, IComparable<processus>
 	{
 		public int id;
