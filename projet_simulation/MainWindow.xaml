@@ -134,7 +134,7 @@
                 </Rectangle.Effect>
             </Rectangle>
             <TextBlock HorizontalAlignment="Left" Margin="1050,465,0,0" TextWrapping="Wrap" Text="Deroulement" VerticalAlignment="Top" Height="35" Width="255" FontSize="16" TextAlignment="Center" Foreground="#FFFAF8F8" FontWeight="Bold"/>
-            <TextBlock HorizontalAlignment="Left" Margin="245,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="75" FontSize="24" Foreground="#FFA3A3AA" FontWeight="Bold"><Run Text="Aceuil"/><Run Text="l"/></TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="245,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="85" FontSize="24" Foreground="#FFA3A3AA" FontWeight="Bold"><Run Text="Ac"/><Run Text="c"/><Run Text="u"/><Run Text="e"/><Run Text="il"/><Run Text="l"/></TextBlock>
             <TextBlock HorizontalAlignment="Left" Margin="470,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="185" FontSize="24" Foreground="#FFA3A3AA" FontWeight="Bold"><Run Text="documentatio"/><Run Text="n"/><Run Text="n"/><Run Text="n"/></TextBlock>
             <TextBlock HorizontalAlignment="Left" Margin="815,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="100" FontSize="24" Foreground="#FFA3A3AA" Text="example" FontWeight="Bold"/>
             <TextBlock HorizontalAlignment="Left" Margin="1080,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="135" FontSize="24" Foreground="#FF00FFB8" Text="Simulation" FontWeight="Bold"/>
